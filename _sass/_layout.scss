@@ -37,7 +37,9 @@ a:hover {
 	text-decoration: underline;
 }
 header {
-	background: $header;
+	background-image: url("../img/sb5yutjybrm-alejandro-garrido-navarro.jpg");
+	background-size: 100% 200%;
+	background-repeat: no-repeat;
 	padding: 0px 15px;
 	text-align: center;
 	margin: 50px 0 0;
@@ -108,4 +110,11 @@ aside {
 footer {
 	text-align: center;
 	padding: 40px;
+}
+
+#site-title {
+	font-size: 50px;
+	text-transform: uppercase;
+	color: #FFF;
+	font-weight: bold;
 }
